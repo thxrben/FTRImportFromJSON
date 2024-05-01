@@ -1,0 +1,8 @@
+content/*.txt
+node_modules/
+npm/
+Export.xlsx
+node.exe
+npm.cmd
+*.pdf
+*.xlsx
